@@ -26,7 +26,7 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 
-- GitHub: [@aristides1000](https://github.com/manuel333m)
+- GitHub: [@manuel333m](https://github.com/manuel333m)
 
 
 ## 🤝 Contributing
